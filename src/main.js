@@ -4,7 +4,7 @@ import router from './router'
 
 
 Vue.config.productionTip = false
-
+//furcio gay
 new Vue({
   router,
   render: h => h(App)
